@@ -1,3 +1,5 @@
-# Using Visual Studio Code with git
+# Using Visual Studio Code with Git
 
-VSCode docs are [here](https://code.visualstudio.com/docs/editor/versioncontrol)
+VSCode docs are [here](https://code.visualstudio.com/docs/editor/versioncontrol) for working with version control, including Git.
+
+You will need to install Git and also Git Credential Manager for Windows, to stop you getting errors of "Host key verification failed"
